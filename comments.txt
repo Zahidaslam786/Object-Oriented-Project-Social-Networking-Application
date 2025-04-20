@@ -1,0 +1,18 @@
+1	3	Interesting
+3	6	Any plans for Get Together?
+3	7	Lunch Buffet please
+3	8	Yummy
+5	9	One pink tea for me
+6	10	Zain is great
+7	5	Happy Birthday aunt
+8	4	Happy Birthday Uncle
+2	2	Good Luck for your Result
+2	1	fgghgh
+4	1	fdxg
+3	1	gfdgf
+2	2	awsdf
+2	2	asdf
+2	1	DSAFD
+1	2	hello
+<postid>  <userid>  <comment>
+2	1	Ali is bad

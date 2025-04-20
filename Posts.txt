@@ -1,0 +1,109 @@
+
+Post ID: 1
+Post Type: Feeling
+details: sdsad
+
+
+Post ID: 2
+Post Type: Thinking
+details: ssdadf
+
+
+Post ID: 1
+Post Type: Feeling
+details: sdasd
+
+
+Post ID: 2
+Post Type: Feeling
+details: hiiiiiiiiiiiiiiiiiiiiiii
+
+
+Post ID: 1
+Post Type: Feeling
+details: dvcvcdc
+
+
+Post ID: 1
+Post Type: Feeling
+details: dsdsssd
+------------------------
+
+
+Post ID: 2
+Post Type: Celebrating
+details: dasddsa
+------------------------
+
+
+Post ID: 1
+Post Type: Feeling
+details: hello
+------------------------
+
+
+Post ID: 2
+Post Type: Celebrating
+details: display
+------------------------
+
+
+Post ID: 1
+Post Type: Feeling
+details: "hello"
+------------------------
+
+
+Post ID: 1
+Post Type: Feeling
+details: ths is the new osirfreferfffffffffffff=================
+------------------------
+
+
+Post ID: 2
+Post Type: Celebrating
+details: meri post ha
+------------------------
+
+
+Post ID: 1
+Post Type: Feeling
+details: This is a programmer
+------------------------
+
+
+Post ID: 1
+Post Type: Feeling
+details: Hello i am 
+------------------------
+
+
+Post ID: 1
+Post Type: Feeling
+details: wasddfcd
+------------------------
+
+
+Post ID: 1
+Post Type: Thinking
+details: This is my post
+------------------------
+
+
+Post ID: 1
+Post Type: Thinking
+details: This is Good Think
+------------------------
+
+
+Post ID: 1
+Post Type: Thinking
+details: this is coding
+------------------------
+
+
+Post ID: 1
+Post Type: Feeling
+details: sasdsa
+------------------------
+
